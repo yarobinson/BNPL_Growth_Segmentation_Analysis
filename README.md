@@ -1,1 +1,1 @@
-#BNPL Growth Segmentation Analysis
+## BNPL Growth Segmentation Analysis

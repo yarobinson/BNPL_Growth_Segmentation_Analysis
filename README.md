@@ -1,11 +1,11 @@
-## BNPL Growth Segmentation Analysis
+# BNPL Growth Segmentation Analysis
 
-# Project Background
+## Project Background
 A leading Buy Now, Pay Later (BNPL) platform wants to identify business development opportunities across merchant industries and user demographics. The analysis evaluates segments based on conversion rates, customer loyalty, loan performance and risk metrics to determine which segments offer the highest growth potential while maintaining responsible lending practices. 
 
 This analysis uses transaction data spanning 3 months (January-March 2016) across multiple merchant categories including Music, Apparel, Furniture and Jewelry. 
 
-# Data Structure
+## Data Structure
 The project uses three primary datasets: 
 
 1. Funnel Table
@@ -35,7 +35,7 @@ The project uses three primary datasets:
     - merchant_name: Name of the merchant
     - category: The merchant's industry
 
-# Executive Summary
+## Executive Summary
 Analysis revealed that the Music industry for ages 25-44 represents the highest-value opportunity for business development focus. This segments shows: 
 
 - Balanced Performance: Combination of strong conversion rates (5.13% for ages 25-34) and exceptional customer loyalty (approx 20% returning users)
@@ -44,7 +44,7 @@ Analysis revealed that the Music industry for ages 25-44 represents the highest-
 
 Analysis also identified and resolved data quality issues. For further information on data quality issues, please see [here](https://github.com/yarobinson/BNPL_Growth_Segmentation_Analysis/blob/main/sql/data_anomalies.sql). 
 
-# Recommendations
+## Recommendations
 1. Implement Staggered Business Development Approach
     - Phase 1: Focus on Music Industry ages 25-34 to capitalize on the 5.13% conversion rate
     - Phase 2: Expand to ages 35-44 to leverage superior loyalty (20.68% returning users)

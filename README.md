@@ -42,7 +42,7 @@ Analysis revealed that the Music industry for ages 25-44 represents the highest-
 - Lower Risk Profile: Above-average loan return percentages (almost 7% for ages-34) and healthy FICO scores in the Near Prime category
 - Growth Potential: Combined loan volume of approx 5,700 loans with room for expansion
 
-Analysis also identified and resolved data quality issues. For further information on data quality issues, please see here. 
+Analysis also identified and resolved data quality issues. For further information on data quality issues, please see [here](https://github.com/yarobinson/BNPL_Growth_Segmentation_Analysis/blob/main/sql/data_anomalies.sql). 
 
 # Recommendations
 1. Implement Staggered Business Development Approach
